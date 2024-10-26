@@ -18,7 +18,7 @@ This repository contains the PCB design that centralizes **both control and powe
 
 ## Schematic & Design Files
 - **PCB Design**: [OSHWA PCB Design Link](https://oshwlab.com/omkinage/temppcb)
-- **Schematics**: Available in the `schematics` folder in this repository.
+- **Schematics**: Available in the `IRoC_PCB` folder in this repository.
 
 ## Components
 - **STM32 Controllers**: Three STM32 "black pill" units for control of all rover subsystems.
