@@ -20,11 +20,6 @@ This repository contains the PCB design that centralizes **both control and powe
 - **PCB Design**: [OSHWA PCB Design Link](https://oshwlab.com/omkinage/temppcb)
 - **Schematics**: Available in the `schematics` folder in this repository.
 
-## Getting Started
-1. Clone this repository.
-2. Review the PCB layout in EasyEDA or compatible EDA software.
-3. Follow the **User Guide** for setup and assembly instructions, ensuring all connections match specified voltage and current requirements.
-
 ## Components
 - **STM32 Controllers**: Three STM32 "black pill" units for control of all rover subsystems.
 - **Motor Drivers**: Four mounting holes for easy integration with motor drivers.
@@ -39,4 +34,4 @@ This repository contains the PCB design that centralizes **both control and powe
   - Width [mils] = Area [mils²] / {Thickness [oz] * 1.378 [mils/oz]}
 
 ## Acknowledgments
-Special thanks to MaRS Club for their support and resources.
+Special thanks to MaRS Club for their support & resources and special thanks to Vashisht Managari, MaRS gen 4 Co-Lead for help and reviewing the PCB from designing till fabrication.
